@@ -32,7 +32,7 @@ body{
 header{
     height: 200px;
     font-family:var(--fonte-principal);
-    font-size: 1.5em;
+    font-size: 1em;
     text-align: center;
 background-image:linear-gradient(to top, var(--cor5), var(--cor1));
 color: rgba(0, 0, 0, 0.71);
@@ -72,7 +72,7 @@ main{
 }
 main > h1{
     font-family:var(--fonte-principal);
-    font-size: 28px;
+    font-size: 16px;
     color: var(--cor5);
     text-align: center;
     padding-top: 10px;
@@ -81,7 +81,7 @@ main > h1{
 main > h2{
     font-family:var(--fonte-principal);
     color: var(--cor5);
-    font-size: 21px;
+    font-size: 16px;
     padding-top: 30px;
     text-align: center;
     
@@ -159,7 +159,7 @@ footer{
     color:white;
 text-align: center;
 padding-top: 20px;
-font-size: 18px;
+font-size: 16px;
 }
 footer > a{
     text-decoration: none;
