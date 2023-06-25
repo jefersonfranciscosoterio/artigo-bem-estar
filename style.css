@@ -72,10 +72,11 @@ main{
 }
 main > h1{
     font-family:var(--fonte-principal);
-    font-size: 16px;
+    font-size: 20px;
     color: var(--cor5);
     text-align: center;
     padding-top: 10px;
+    padding-bottom: 10px;
     
 }
 main > h2{
