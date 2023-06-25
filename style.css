@@ -35,7 +35,7 @@ header{
     font-size: 1.5em;
     text-align: center;
 background-image:linear-gradient(to top, var(--cor5), var(--cor1));
-color: black;
+color: rgba(0, 0, 0, 0.71);
 padding-top: 20px;
 
 }
@@ -48,6 +48,7 @@ header > p{
 nav{
     background-color:rgb(1, 1, 84);
     height: 50px;
+    text-align: center;
 }
 nav > a{
     padding-left: 10px;
@@ -55,7 +56,7 @@ nav > a{
     font-weight: bold;
     text-decoration: none;
     transition-duration: 1s;
-}
+    }
 nav > a:hover{
     text-decoration: underline;
 }
